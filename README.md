@@ -10,8 +10,9 @@ Paper Link: [Paper](https://arxiv.org/pdf/2501.13787)
 
 Read the full deep-dive on Medium:
 
- **Scaling Smarter: Parameter-Efficient Fine-Tuning of Foundation Models**  
-<https://medium.com/@yourusername/scaling-smarter-parameter-efficient-fine-tuning-of-foundation-models>
+ **Scaling Smarter: Parameter-Efficient Fine-Tuning of Foundation Models** 
+ 
+ [Medium Article](https://medium.com/@roshini.joga/scaling-smarter-a-practical-guide-to-parameter-efficient-fine-tuning-of-foundation-models-8ecb73be2190)
 
 ---
 
