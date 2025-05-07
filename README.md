@@ -3,17 +3,19 @@
 A companion repository for the Medium article and presentation on Parameter-Efficient Fine-Tuning (PEFT) techniques across language, vision, generative and multimodal foundation models.
 
 ---
+## Paper Article
+Paper Link: [Paper](https://arxiv.org/pdf/2501.13787)
 
-## 📖 Medium Article
+## Medium Article
 
 Read the full deep-dive on Medium:
 
-➡️ **Scaling Smarter: Parameter-Efficient Fine-Tuning of Foundation Models**  
+ **Scaling Smarter: Parameter-Efficient Fine-Tuning of Foundation Models**  
 <https://medium.com/@yourusername/scaling-smarter-parameter-efficient-fine-tuning-of-foundation-models>
 
 ---
 
-## 🖥 Presentation
+## Presentation
 
 A 15-slide PowerPoint deck covering all major PEFT families, empirical findings and future directions:
 
