@@ -4,11 +4,9 @@ A companion repository for the Medium article and presentation on Parameter-Effi
 
 ---
 ## Paper Article
-Paper Link: [Paper](https://arxiv.org/pdf/2501.13787)
+ Paper Link: [Paper](https://arxiv.org/pdf/2501.13787)
 
 ## Medium Article
-
-Read the full deep-dive on Medium:
 
  **Scaling Smarter: Parameter-Efficient Fine-Tuning of Foundation Models** 
  
