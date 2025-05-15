@@ -17,6 +17,6 @@ A companion repository for the Medium article and presentation on Parameter-Effi
 ## Presentation
 
 A 15-slide PowerPoint deck covering all major PEFT families, empirical findings and future directions:
-- [DEMO]()
+- [DEMO](https://youtu.be/Qcbj93uC1yc)
 
 - [PEFT_PowerPoint Presentation_Slides.pptx](https://www.slideshare.net/slideshow/parameter-efficient-fine-tuning-peft-techniques-across-language-vision-generative-and-multimodal-foundation-models/278817286)
